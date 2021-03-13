@@ -1,0 +1,3 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Josy\source\repos\conexionSqlconc\conexion.h(31,12): warning C4101: 'fila': variable local sin referencia
+C:\Users\Josy\source\repos\conexionSqlconc\Form1.h(85,12): error C2079: 'datos' utiliza class 'CppCLRWinformsProjekt::conexion' sin definir
