@@ -1,3 +1,7 @@
 ﻿  CppCLR_WinformsProjekt.cpp
-C:\Users\Josy\source\repos\conexionSqlconc\conexion.h(31,12): warning C4101: 'fila': variable local sin referencia
-C:\Users\Josy\source\repos\conexionSqlconc\Form1.h(85,12): error C2079: 'datos' utiliza class 'CppCLRWinformsProjekt::conexion' sin definir
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\conexion.h(35,12): warning C4101: 'fila': unreferenced local variable
+  conexion.cpp
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\conexion.h(35,12): warning C4101: 'fila': unreferenced local variable
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  conexionSqlconc.vcxproj -> D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe

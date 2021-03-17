@@ -32,6 +32,9 @@
     <ClInclude Include="conexion.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Mascotas.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppCLR_WinformsProjekt.cpp">

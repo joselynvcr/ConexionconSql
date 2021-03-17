@@ -1,0 +1,5 @@
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.vcxprojAssemblyReference.cache
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.Form1.resources
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.vcxproj.GenerateResource.cache
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe
+D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.pdb
