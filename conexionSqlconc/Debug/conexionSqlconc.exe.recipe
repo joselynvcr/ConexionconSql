@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <ProjectOutputs>D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe</ProjectOutputs>
-  <ContentFiles></ContentFiles>
-  <SatelliteDlls></SatelliteDlls>
-  <NonRecipeFileRefs></NonRecipeFileRefs>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
 </Project>

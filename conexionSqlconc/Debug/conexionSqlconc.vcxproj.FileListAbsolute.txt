@@ -3,3 +3,8 @@ D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\c
 D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.vcxproj.GenerateResource.cache
 D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe
 D:\PROYECTOS DE PROGRAMACION\JosyProjects\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.pdb
+D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.vcxprojAssemblyReference.cache
+D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.Form1.resources
+D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.vcxproj.GenerateResource.cache
+D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.exe
+D:\ESTRUCTURAS DE DATOS\PROJECTO-ESTRUCTURAS\ConexionconSql\conexionSqlconc\Debug\conexionSqlconc.pdb

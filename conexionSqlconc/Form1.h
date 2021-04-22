@@ -124,10 +124,10 @@ namespace CppCLRWinformsProjekt {
 	private: System::Void btnMostrarMascotas_Click(System::Object^ sender, System::EventArgs^ e) {
 		conexion data;
 
-		int n=dgMascotas->Rows->Add();
+		/*int n=dgMascotas->Rows->Add();
 		dgMascotas->Rows[n]->Cells[0]->Value = "GG";
-		dgMascotas->Rows[n]->Cells[1]->Value = "GG2";
-		
+		dgMascotas->Rows[n]->Cells[1]->Value = "GG2";*/
+		data.Mostrar();
 	}
 };
 }
